@@ -10,9 +10,6 @@ Code with Google Gemini 3
 - **技術棧**: HTML5 Canvas, Vanilla JavaScript, Tailwind CSS。
 - **渲染機制**: 歐拉積分法 (Euler Integration) 與程序化地形生成。
 
-## 如何執行
-[點此遊玩 (Live Demo)](你的GitHubPages連結)
-
 ## 控制說明
 - [↑]: 主引擎推力 (線性類比)
 - [←/→]: 姿態調整 (RCS)
